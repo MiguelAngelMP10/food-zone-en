@@ -4,7 +4,7 @@
 
 <nav class="navbar navbar-expand-lg navbar-dark bg sticky-top">
   <div class="container">
-    <img src="./img/Logo foodzone.png" alt="" class="imagen-lo" />
+    <img src="./img/LogoFoodzone.png" alt="" class="imagen-lo" />
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
     </button>

@@ -19,7 +19,7 @@
 			  <a href="restaurante" class="btn btn-primary me-md-2" type="button"
 				>Restaurante</a
 			  >
-			  <a href="repartidor" class="btn btn-primary me-md-2" type="button"
+			  <a href="./repartidor" class="btn btn-primary me-md-2" type="button"
 				>Repartidor</a
 			  >
 			</div>
@@ -30,7 +30,7 @@
 				<div class="portfolio_images_overlay text-center">
 				  <h6>Italian Source Mushroom</h6>
 				  <p class="product_price">$12</p>
-				  <a href="" class="btn btn-primary">Click here</a>
+				  <a href="./" class="btn btn-primary">Click here</a>
 				</div>
   
 				<h5>La Noria</h5>
@@ -40,7 +40,7 @@
 				<div class="portfolio_images_overlay text-center">
 				  <h6>Italian Source Mushroom</h6>
 				  <p class="product_price">$12</p>
-				  <a href="" class="btn btn-primary">Click here</a>
+				  <a href="./" class="btn btn-primary">Click here</a>
 				</div>
   
 				<h5>La corregidora</h5>
@@ -50,7 +50,7 @@
 				<div class="portfolio_images_overlay text-center">
 				  <h6>Italian Source Mushroom</h6>
 				  <p class="product_price">$12</p>
-				  <a href="" class="btn btn-primary">Click here</a>
+				  <a href="./" class="btn btn-primary">Click here</a>
 				</div>
   
 				<h5>La casona</h5>
@@ -60,7 +60,7 @@
 				<div class="portfolio_images_overlay text-center">
 				  <h6>Italian Source Mushroom</h6>
 				  <p class="product_price">$12</p>
-				  <a href="" class="btn btn-primary">Click here</a>
+				  <a href="./" class="btn btn-primary">Click here</a>
 				</div>
   
 				<h5>Pizza and food</h5>
@@ -70,7 +70,7 @@
 				<div class="portfolio_images_overlay text-center">
 				  <h6>Italian Source Mushroom</h6>
 				  <p class="product_price">$12</p>
-				  <a href="" class="btn btn-primary">Click here</a>
+				  <a href="./" class="btn btn-primary">Click here</a>
 				</div>
   
 				<h5>Barcleys</h5>
@@ -80,7 +80,7 @@
 				<div class="portfolio_images_overlay text-center">
 				  <h6>Italian Source Mushroom</h6>
 				  <p class="product_price">$12</p>
-				  <a href="" class="btn btn-primary">Click here</a>
+				  <a href="./" class="btn btn-primary">Click here</a>
 				</div>
   
 				<h5>Restaurantes palacios</h5>
@@ -90,7 +90,7 @@
 				<div class="portfolio_images_overlay text-center">
 				  <h6>Italian Source Mushroom</h6>
 				  <p class="product_price">$12</p>
-				  <a href="" class="btn btn-primary">Click here</a>
+				  <a href="./" class="btn btn-primary">Click here</a>
 				</div>
   
 				<h5>hermenejildo galeana</h5>
@@ -100,7 +100,7 @@
 				<div class="portfolio_images_overlay text-center">
 				  <h6>Italian Source Mushroom</h6>
 				  <p class="product_price">$12</p>
-				  <a href="" class="btn btn-primary">Click here</a>
+				  <a href="./" class="btn btn-primary">Click here</a>
 				</div>
 				<h5>paseo bravo</h5>
 			  </div>

@@ -13,10 +13,10 @@
                 </p>
               </div>
               <div class="footer_socail_icon">
-                <a href="google.com"><img src="./img/facebook.png" alt="" class="redIcon"></a>
-                <a href="google.com"><img src="./img/instagram.png" alt="" class="redIcon"></a>
-                <a href="google.com"><img src="./img/gorjeo.png" alt="" class="redIcon"></a>
-                <a href="google.com"><img src="./img/linkedin.png" alt="" class="redIcon"></a>
+                <a href="./"><img src="./img/facebook.png" alt="" class="redIcon"></a>
+                <a href="./"><img src="./img/instagram.png" alt="" class="redIcon"></a>
+                <a href="./"><img src="./img/gorjeo.png" alt="" class="redIcon"></a>
+                <a href="./"><img src="./img/linkedin.png" alt="" class="redIcon"></a>
               </div>
             </div>
           </div>
