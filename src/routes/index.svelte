@@ -1,2 +1,19 @@
-<h1>Welcome to SvelteKit</h1>
-<p>Visit <a href="https://kit.svelte.dev">kit.svelte.dev</a> to read the documentation</p>
+<script>
+	import Slider from "../components/Slider.svelte";
+	import Aboutus from "../components/Aboutus.svelte";
+	import Appmobile from "../components/Appmobile.svelte";
+	export let segment;
+</script>
+
+<style>
+	
+</style>
+
+<svelte:head>
+	<title>Food-zone</title>
+</svelte:head>
+<Slider {segment} />
+<Aboutus {segment} />
+<Appmobile {segment} />
+
+
