@@ -4,11 +4,17 @@
 
   export let segment;
 </script>
-
-<Nav {segment} />
+<div class="contenedor">
+  <Nav {segment} />
 
 <main>
   <slot />
 </main>
 
 <Footer {segment} />
+</div>
+<style>
+  .contenedor{
+    margin-right: 0.74em;
+  }
+</style>

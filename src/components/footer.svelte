@@ -2,7 +2,7 @@
     <div class="container">
       <div class="row ">
         <div class="ms-3">
-          <div class="col-md-6 in px-0">
+          <div class="col-md-6 in">
             <div class="single_widget wow fadeIn" data-wow-duration="2s">
               <h4>Contacto</h4> 
               <div class="single_widget_info">

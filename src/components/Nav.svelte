@@ -60,4 +60,7 @@
  .nav-link{
   color: white;
  }
+ .navbar{
+  margin-right: -13px;
+ }
 </style>

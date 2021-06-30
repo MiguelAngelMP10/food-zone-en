@@ -1,4 +1,4 @@
-<section id="abouts" class="abouts">
+<section id="abouts" class="abouts aba">
     <div class="container">
       <div class="row">
         <div class="abouts_content">
@@ -33,3 +33,9 @@
       </div>
     </div>
   </section>
+
+  <style>
+    .aba{
+      margin-right: -13px;
+    }
+  </style>

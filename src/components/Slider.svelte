@@ -21,4 +21,7 @@
     .tituloSlider{
       font-weight: 700;
     }
+    .slider{
+      margin-right: -13px;
+    }
   </style>

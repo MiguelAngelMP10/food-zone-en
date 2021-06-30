@@ -23,6 +23,8 @@
     .in{
       display: inline-block;
     }
-    
+    .slider2{
+      margin-right: -13px;
+    }
   
   </style>

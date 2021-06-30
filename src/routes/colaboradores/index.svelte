@@ -110,3 +110,8 @@
 	  </div>
 	</div>
   </section>
+  <style>
+	  .portfolio{
+		margin-right: -13px;
+	  }
+  </style>

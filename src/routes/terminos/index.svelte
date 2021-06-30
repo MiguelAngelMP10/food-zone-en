@@ -2,8 +2,8 @@
 	<title>Términos</title>
 </svelte:head>
 
-<section id="portfolio" class="portfolio px-0">
-	<main class="px-0">
+<section id="portfolio" class="portfolio ">
+	<main class="">
 	  <div class="container">
 		<div class="row">
 		  <div class="position-relative overflow-hidden">
