@@ -22,34 +22,34 @@
     <div class="collapse navbar-collapse" id="navbarNav">
       <ul class="navbar-nav mx-auto">
         <li class="nav-item">
-          <a href="./" class="nav-link active activo">Home</a>
+          <a href="./" class="nav-link active activo" on:click={collapseMenu}>Home</a>
         </li>
         <li class="nav-item" >
-          <a href="colaboradores" class="nav-link active activo"
+          <a href="colaboradores" class="nav-link active activo" on:click={collapseMenu}
             >Colaboradores</a
           >
         </li>
         <li class="nav-item">
-          <a href="nosotros" class="nav-link active activo">Nosotros</a>
+          <a href="nosotros" class="nav-link active activo" on:click={collapseMenu}>Nosotros</a>
         </li>
         <li class="nav-item" >
-          <a href="pedir" class="nav-link active activo">Pedido</a>
+          <a href="pedir" class="nav-link active activo" on:click={collapseMenu}>Pedido</a>
         </li>
         <li class="nav-item" >
-          <a href="noticias" class="nav-link active activo">Noticias</a>
+          <a href="noticias" class="nav-link active activo" on:click={collapseMenu}>Noticias</a>
         </li>
         <li class="nav-item" >
-          <a href="preguntas-frecuentes" class="nav-link active activo"
+          <a href="preguntas-frecuentes" class="nav-link active activo" on:click={collapseMenu}
             >Preguntas
           </a>
         </li>
         <li class="nav-item" >
-          <a href="terminos" class="nav-link active activo"
+          <a href="terminos" class="nav-link active activo" on:click={collapseMenu}
             >Términos</a
           >
         </li>
         <li class="nav-item">
-          <a href="contacto" class="nav-link active activo">Contacto</a>
+          <a href="contacto" class="nav-link active activo" on:click={collapseMenu}>Contacto</a>
         </li>
       </ul>
     </div>
