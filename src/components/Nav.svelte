@@ -10,6 +10,9 @@
   };
 </script>
 
+<div class="preloader"><div class="loaded">&nbsp;</div></div>
+
+
 <nav class="navbar navbar-expand-lg navbar-dark bg sticky-top">
   <div class="container">
     <img src="./img/LogoFoodzone.png" alt="" class="imagen-lo" />
