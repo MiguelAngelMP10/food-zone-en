@@ -12,6 +12,7 @@
 <svelte:head>
 	<title>Food-zone</title>
 </svelte:head>
+<div class="preloader"><div class="loaded">&nbsp;</div></div>
 <Slider {segment} />
 <Aboutus {segment} />
 <Appmobile {segment} />
