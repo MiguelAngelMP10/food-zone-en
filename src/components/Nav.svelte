@@ -1,5 +1,13 @@
 <script>
- 
+   const collapseMenu = () => {
+    if (window.innerWidth < 992) {
+      document
+        .querySelector("#navbarNav")
+        .classList.replace("collapse", "collapsing");
+      document.querySelector("#navbarNav").classList.remove("show");
+      document.querySelector("#navbarNav").classList.add("collapse");
+    }
+  };
 </script>
 
 <nav class="navbar navbar-expand-lg navbar-dark bg sticky-top">
