@@ -7,7 +7,7 @@ const config = {
 		target: '#svelte',
 	
 		paths: {
-			assets: '',
+			assets: '/food-zone-svelte-kit',
 			base: '/food-zone-svelte-kit'
 		},
 		
