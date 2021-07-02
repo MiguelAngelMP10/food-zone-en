@@ -1,3 +1,8 @@
+<script >
+ import { base} from '$app/paths';
+ export let url = base;
+</script>
+
 <section id="footer_widget" class="footer_widget px-0">
     <div class="container">
       <div class="row ">
@@ -13,10 +18,10 @@
                 </p>
               </div>
               <div class="footer_socail_icon">
-                <a href="./"><img src="./img/facebook.png" alt="" class="redIcon"></a>
-                <a href="./"><img src="./img/instagram.png" alt="" class="redIcon"></a>
-                <a href="./"><img src="./img/gorjeo.png" alt="" class="redIcon"></a>
-                <a href="./"><img src="./img/linkedin.png" alt="" class="redIcon"></a>
+                <a href="{url}/"><img src="{url}/img/facebook.png" alt="" class="redIcon"></a>
+                <a href="{url}/"><img src="{url}/img/instagram.png" alt="" class="redIcon"></a>
+                <a href="{url}/"><img src="{url}/img/gorjeo.png" alt="" class="redIcon"></a>
+                <a href="{url}/"><img src="{url}/img/linkedin.png" alt="" class="redIcon"></a>
               </div>
             </div>
           </div>
@@ -27,34 +32,34 @@
               <div class="">
                 <ul class="">
                         <li class="nav-item">
-                        <a href="/" class="nav-link active activo">Home</a>
+                        <a href="{url}/" class="nav-link active activo">Home</a>
                         </li>
                         <li class="nav-item" >
-                            <a href="colaboradores" class="nav-link active activo"
+                            <a href="{url}/colaboradores" class="nav-link active activo"
                             >Colaboradores</a
                             >
                         </li>
                         <li class="nav-item">
-                            <a href="nosotros" class="nav-link active activo">Nosotros</a>
+                            <a href="{url}/nosotros" class="nav-link active activo">Nosotros</a>
                         </li>
                         <li class="nav-item" >
-                            <a href="pedir" class="nav-link active activo">Pedido</a>
+                            <a href="{url}/pedir" class="nav-link active activo">Pedido</a>
                         </li>
                         <li class="nav-item" >
-                            <a href="noticias" class="nav-link active activo">Noticias</a>
+                            <a href="{url}/noticias" class="nav-link active activo">Noticias</a>
                         </li>
                         <li class="nav-item" >
-                            <a href="preguntas-frecuentes" class="nav-link active activo"
+                            <a href="{url}/preguntas-frecuentes" class="nav-link active activo"
                             >Preguntas
                             </a>
                         </li>
                         <li class="nav-item" >
-                            <a href="terminos" class="nav-link active activo"
+                            <a href="{url}/terminos" class="nav-link active activo"
                             >Términos</a
                             >
                         </li>
                         <li class="nav-item">
-                            <a href="contacto" class="nav-link active activo">Contacto</a>
+                            <a href="{url}/contacto" class="nav-link active activo">Contacto</a>
                         </li>
                 </ul>
               </div>

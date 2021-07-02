@@ -1,3 +1,9 @@
+
+<script>
+	import { base } from '$app/paths';
+	export let url = base;
+</script>
+
 <section class="portfolio " id="portfolio">
     <main>
       <div class="container">
@@ -70,9 +76,9 @@
                 </div>
   
                 <p>
-                  Al continuar, acepto las <a href="./">condiciones de uso</a> de
+                  Al continuar, acepto las <a href="{url}/">condiciones de uso</a> de
                   Food Zone y reconozco haber leído su
-                  <a href="./">política de privacidad</a> .
+                  <a href="{url}/">política de privacidad</a> .
                 </p>
                 <p>
                   También acepto que Food Zone o sus representantes puedan
@@ -94,7 +100,7 @@
               </div>
             </form>
           </div>
-          <img src="./assets/images/Fz-1.png" alt="" class="hero-bottom-img" />
+          <img src="{url}/assets/images/Fz-1.png" alt="" class="hero-bottom-img" />
         </div>
   
         <div class="row">

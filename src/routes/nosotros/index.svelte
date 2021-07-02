@@ -1,3 +1,9 @@
+<script>
+import { base} from '$app/paths';
+export let url = base;
+</script>
+
+
 <div class="row">
   <main>
     <div class="position-relative overflow-hidden  bg-light ">
@@ -11,7 +17,7 @@
               </h3>
 
               <img
-                src="./img/FZ1.png"
+                src="{url}/img/FZ1.png"
                 class="igure-img img-fluid rounded wow zoomIn animated py-3"
                 alt="..."
               />
@@ -83,7 +89,7 @@
                 <div class="col wow zoomInDown animated">
                   <div class="card h-100">
                     <img
-                      src="./assets/images/calidad.png"
+                      src="{url}/assets/images/calidad.png"
                       class="card-img-top"
                       alt="..."
                     />
