@@ -11,7 +11,8 @@
 	onMount(() => {
 		new WOW({
 			mobile: true,
-			live: false
+			live: false,
+			offset: 0,
 		}).init();
 	});
 </script>
@@ -23,6 +24,5 @@
 <Slider {segment} />
 <Aboutus {segment} />
 <Appmobile {segment} />
-
 <style>
 </style>

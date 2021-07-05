@@ -1,5 +1,5 @@
 <svelte:head>
-	<title>Colaboradores</title>
+	<title>FoodZone-Colaboradores</title>
 </svelte:head>
 
 
@@ -18,7 +18,7 @@
 		  <div class="col-md-12">
 			<div class="head_title text-center">
 			  <h4>¡Sé parte de nuestro equipo!</h4>
-			  <h3>Colaboradores</h3>
+			  <h3>FoodZone-Colaboradores</h3>
 			</div>
   
 			<div class="d-grid gap-2 d-md-flex justify-content-md-center pb-3">

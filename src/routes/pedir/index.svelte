@@ -10,7 +10,7 @@
 				<div class="row justify-content-center">
 					<div class="col-8 py-5">
 						<h4 class="text-center wow animated rubberBand " data-animation="flash">
-							¿Cómo realizar un pedido?
+							FoodZone ¿Cómo realizar un pedido?
 						</h4>
 
 						<div class="row row-cols-1 row-cols-md-3 g-4 justify-content-center">

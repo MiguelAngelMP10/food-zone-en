@@ -9,7 +9,7 @@
                 Si tienes alguna duda escríbenos por correo
               </h4>
               <h3 class="wow animated rubberBand text-center py-3" id="">
-                Contáctanos
+                FoodZone-Contáctanos
               </h3>
 
               <form action="" autocomplete="off">

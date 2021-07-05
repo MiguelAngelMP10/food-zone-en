@@ -1,5 +1,5 @@
 <svelte:head>
-	<title>Términos</title>
+	<title>FoodZone-Términos</title>
 </svelte:head>
 
 <section id="portfolio" class="portfolio ">
@@ -14,7 +14,7 @@
 					class="wow animated rubberBand text-center head_title"
 					id=""
 				  >
-					Términos
+					FoodZone-Términos
 				  </h4>
 				  <h3
 					class="wow animated rubberBand text-center py-3"

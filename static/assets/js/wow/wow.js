@@ -161,7 +161,7 @@
     WOW.prototype.defaults = {
       boxClass: 'wow',
       animateClass: 'animated',
-      offset: 0,
+      offset: 1,
       mobile: true,
       live: true,
       callback: null

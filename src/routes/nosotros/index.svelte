@@ -11,7 +11,7 @@ export let url = base;
         <div class="row justify-content-center">
           <div class="col-8">
             <div class="row py-5">
-              <h4 class=" wow animated rubberBand  text-center">Nosotros</h4>
+              <h4 class=" wow animated rubberBand  text-center">FoodZone-Nosotros</h4>
               <h3 class=" wow animated rubberBand  text-center py-3">
                 ¿Quiénes somos y qué hacemos?
               </h3>
