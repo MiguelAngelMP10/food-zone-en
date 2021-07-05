@@ -6,7 +6,7 @@
           <div class="col-md-12">
             <div
               class="single_abouts_text text-center wow slideInLeft"
-              data-wow-duration="1s"
+              data-wow-duration="2s" data-wow-delay="1s" data-wow-offset="1" 
             >
               <img src="./assets/images/beneficios1.png" alt="" />
             </div>
@@ -14,7 +14,7 @@
           <div class="col-md-12">
             <div
               class="single_abouts_text wow slideInRight"
-              data-wow-duration="1s"
+              data-wow-duration="2s"  data-wow-delay="1s" data-wow-offset="1" 
             >
               <h4>Acerca de nosotros</h4>
               <h3>¿Qué te ofrecemos?</h3>

@@ -17,7 +17,7 @@
 </script>
 
 <link rel="stylesheet" href="{url}/assets/css/font-awesome.min.css" />
-<link rel="stylesheet" href="{url}/assets/css/animate/animate.css" />
+<link rel="stylesheet" href="{url}/assets/css/animate/animate.min.css" />
 <link rel="stylesheet" href="{url}/assets/css/style.css" />
 <link rel="stylesheet" href="{url}/assets/css/responsive.css" />
 
