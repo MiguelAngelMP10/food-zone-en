@@ -1,13 +1,19 @@
 <script>
-	import Slider from "../components/Slider.svelte";
-	import Aboutus from "../components/Aboutus.svelte";
-	import Appmobile from "../components/Appmobile.svelte";
-	export let segment;
-</script>
+	import Slider from '../components/Slider.svelte';
+	import Aboutus from '../components/Aboutus.svelte';
+	import Appmobile from '../components/Appmobile.svelte';
 
-<style>
-	
-</style>
+	import { onMount } from 'svelte';
+
+	export let segment;
+
+	onMount(() => {
+		new WOW({
+			mobile: true,
+			live: false
+		}).init();
+	});
+</script>
 
 <svelte:head>
 	<title>Food-zone</title>
@@ -17,4 +23,5 @@
 <Aboutus {segment} />
 <Appmobile {segment} />
 
-
+<style>
+</style>
