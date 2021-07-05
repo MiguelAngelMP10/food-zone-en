@@ -7,10 +7,7 @@
 
 	export let segment;
 
-<<<<<<< HEAD
-<style>
-</style>
-=======
+
 	onMount(() => {
 		new WOW({
 			mobile: true,
@@ -19,7 +16,6 @@
 	});
 </script>
 
->>>>>>> 30cd7df341cf819856902b1b104ae5a8e433266e
 <svelte:head>
 	<title>Food-zone</title>
 </svelte:head>
