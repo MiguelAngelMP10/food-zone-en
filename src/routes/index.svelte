@@ -6,9 +6,7 @@
 </script>
 
 <style>
-	
 </style>
-
 <svelte:head>
 	<title>Food-zone</title>
 </svelte:head>

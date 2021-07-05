@@ -58,7 +58,6 @@
 				  <p class="product_price">$12</p>
 				  <a href="{url}/" class="btn btn-primary">Click here</a>
 				</div>
-  
 				<h5>La casona</h5>
 			  </div>
 			  <div class="col-md-3 col-sm-4 col-xs-6 single_portfolio_text">
@@ -68,7 +67,6 @@
 				  <p class="product_price">$12</p>
 				  <a href="{url}/" class="btn btn-primary">Click here</a>
 				</div>
-  
 				<h5>Pizza and food</h5>
 			  </div>
 			  <div class="col-md-3 col-sm-4 col-xs-6 single_portfolio_text">
@@ -78,7 +76,6 @@
 				  <p class="product_price">$12</p>
 				  <a href="{url}/" class="btn btn-primary">Click here</a>
 				</div>
-  
 				<h5>Barcleys</h5>
 			  </div>
 			  <div class="col-md-3 col-sm-4 col-xs-6 single_portfolio_text">
@@ -88,7 +85,6 @@
 				  <p class="product_price">$12</p>
 				  <a href="{url}/" class="btn btn-primary">Click here</a>
 				</div>
-  
 				<h5>Restaurantes palacios</h5>
 			  </div>
 			  <div class="col-md-3 col-sm-4 col-xs-6 single_portfolio_text">
@@ -105,11 +101,11 @@
 				<img src="{url}/img/res8.jpg" alt="" />
 				<div class="portfolio_images_overlay text-center">
 				  <h6>Italian Source Mushroom</h6>
-				  <p class="product_price">$12</p>
-				  <a href="{url}/" class="btn btn-primary">Click here</a>
-				</div>
-				<h5>paseo bravo</h5>
-			  </div>
+				  	<p class="product_price">$12</p>
+				  	<a href="{url}/" class="btn btn-primary">Click here</a>
+					</div>
+					<h5>paseo bravo</h5>
+			  	</div>
 			</div>
 		  </div>
 		</div>

@@ -11,7 +11,6 @@
               <img src="./assets/images/beneficios1.png" alt="" />
             </div>
           </div>
-  
           <div class="col-md-12">
             <div
               class="single_abouts_text wow slideInRight"
