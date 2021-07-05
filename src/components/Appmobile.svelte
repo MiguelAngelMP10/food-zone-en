@@ -2,7 +2,7 @@
     <div class="slider_overlay ">
       <div class="container">
         <div class="row">
-          <div class="main_mobail_apps_content wow zoomIn "  data-wow-duration="2s"  data-wow-delay="1s" data-wow-offset="3"  >
+          <div class="main_mobail_apps_content wow zoomIn " data-wow-offset="10"  >
             
             <div class="col-md-12 text-center col-sm-12 in">
               <div class="single_monail_apps_text">
