@@ -4,12 +4,10 @@
         <div class="row align-items-center">
           <div class="col-sm-12 col-md-5 wow zoomIn">
             <h1 class="head_title font-weight-bold fs-1">
-              Un mundo de clientes a tu alcance
+              A world of clients at your fingertips
             </h1>
             <p class="text-light">
-              La plataforma que te brinda la flexibilidad, visibilidad y
-              conocimientos que necesitas para conectarte con más clientes.
-              Asóciate con nosotros hoy mismo.
+              The platform that gives you the flexibility, visibility and knowledge you need to connect with more customers. Partner with us today.
             </p>
           </div>
           <br>
@@ -23,7 +21,7 @@
                     id="nombre"
                     placeholder="Nomnbre completo"
                   />
-                  <label for="nombre">Nombre completo</label>
+                  <label for="nombre">Full name</label>
                 </div>
                 <div class="form-floating mb-3">
                   <input
@@ -32,7 +30,7 @@
                     id="email"
                     placeholder="Correo electronico"
                   />
-                  <label for="email">Correo electrónico</label>
+                  <label for="email">Mail</label>
                 </div>
   
                 <div class="form-floating mb-3">
@@ -42,7 +40,7 @@
                     id="tel"
                     placeholder="Teléfono"
                   />
-                  <label for="tel">Teléfono</label>
+                  <label for="tel">Phone</label>
                 </div>
   
                 <div class="form-floating mb-3">
@@ -52,7 +50,7 @@
                     id="direccion"
                     placeholder="Direcciòn de tu negocio"
                   />
-                  <label for="direccion">Dirección de tu negocio</label>
+                  <label for="direccion">Address of your business</label>
                 </div>
   
                 <div class="form-floating mb-3">
@@ -63,26 +61,25 @@
                     style="height: 100px"
                     rows="10"
                   />
-                  <label for="info">Cuéntanos sobre tu negocio</label>
+                  <label for="info">Tell us about your business</label>
                 </div>
                 <p class="text-light">
-                  Al enviar tu información, aceptas que Food Zone y declaras haber
-                  leído los <a href="/" class="text-white font-weight-bold"
-                    >Términos y condiciones</a
+                  By submitting your information, you accept and declare that you have read the .<a href="/" class="text-white font-weight-bold"
+                    >Terms and Conditions and the </a
                   >
-                  y la
+                  And
                   <a href="/" class="text-white font-weight-bold"
-                    >Política de privacidad</a
+                    >Privacy Policy</a
                   >.
                 </p>
                 <div class="col-auto">
                   <button type="button" class="btn btn-primary"
-                    >Enviar Registro</button
+                    >Submit registration</button
                   >
                   <a
                     href="colaboradores"
                     class="btn btn-secondary me-md-2"
-                    type="button">Regresar</a
+                    type="button">Return </a
                   >
                 </div>
               </div>
@@ -96,29 +93,25 @@
     <div class="container">
       <div class="row">
         <h4 class="wow animated rubberBand text-center head_title">
-          ¿Por qué elegir Food Zone?
+          Why choose Food Zone?
         </h4>
         <div class="col-md-sm-12 col-md-4 ">
-          <h3 class="fs-1">Realiza entregas a tu manera</h3>
+          <h3 class="fs-1">Deliver your way</h3>
           <p class=" ">
-            Nuestras ofertas son flexibles para que puedas personalizarlas según
-            tus necesidades. Comienza con tus repartidores o con los socios
-            repartidores que usan la app de Food Zone.
+            Our offers are flexible so that you can customize them according to your needs. Start with your delivery people or delivery partners using the Food Zone app
           </p>
         </div>
         <div class="col-md-sm-12 col-md-4">
-          <h3 class="fs-1">Aumenta tu visibilidad</h3>
+          <h3 class="fs-1">Increase your visibility</h3>
           <p>
-            Destácate con publicidad en la app para llegar a más clientes y
-            aumentar las ventas.
+            Stand out with in-app advertising to reach more customers and increase sales.
           </p>
         </div>
   
         <div class="col-md-sm-12 col-md-4">
-          <h3 class="fs-1">Conéctate con los clientes</h3>
+          <h3 class="fs-1">Connect with customers</h3>
           <p>
-            Usa datos procesables, responde las opiniones u ofrece un programa de
-            lealtad para atraer clientes habituales.
+            Use actionable data, respond to reviews, or offer a loyalty program to attract repeat customers.
           </p>
         </div>
       </div>
@@ -129,25 +122,23 @@
     <div class="container">
       <div class="row">
         <h4 class="wow animated rubberBand text-center head_title">
-          ¿Cómo funciona Food Zone para los Restaurantes Socios?
+          How does Food Zone work for Partner Restaurants?
         </h4>
         <div class="col-md-sm-12 col-md-4">
-          <h3 class="fs-1">Los clientes hacen un pedido</h3>
+          <h3 class="fs-1">Customers place an order</h3>
           <p>
-            Un cliente encuentra tu restaurante y realiza un pedido a través de la
-            app de Food Zone.
+            A customer finds your restaurant and places an order through the Food Zone app
           </p>
         </div>
         <div class="col-md-sm-12 col-md-4">
-          <h3 class="fs-1">Tú lo preparas</h3>
-          <p>El restaurante acepta el pedido y lo prepara.</p>
+          <h3 class="fs-1">You prepare it</h3>
+          <p>The restaurant accepts the order and prepares it.</p>
         </div>
   
         <div class="col-md-sm-12 col-md-4">
-          <h3 class="fs-1">Llegan los Socios Repartidores</h3>
+          <h3 class="fs-1">Delivery Partners arrive</h3>
           <p>
-            Los Socios Repartidores que usan la plataforma Food Zone a recolectar
-            el pedido en el restaurante y se lo entregan al cliente.
+            The Delivery Partners who use the Food Zone platform to collect the order in the restaurant and deliver it to the customer.
           </p>
         </div>
       </div>
