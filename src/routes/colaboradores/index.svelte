@@ -17,16 +17,16 @@
 		>
 		  <div class="col-md-12">
 			<div class="head_title text-center">
-			  <h4>¡Sé parte de nuestro equipo!</h4>
-			  <h3>FoodZone-Colaboradores</h3>
+			  <h4>Be part of our team! </h4>
+			  <h3>Collaborators </h3>
 			</div>
   
 			<div class="d-grid gap-2 d-md-flex justify-content-md-center pb-3">
 			  <a href="restaurante" class="btn btn-primary me-md-2" type="button"
-				>Restaurante</a
+				>Restaurant</a
 			  >
 			  <a href="{url}/repartidor" class="btn btn-primary me-md-2" type="button"
-				>Repartidor</a
+				>Delivery man </a
 			  >
 			</div>
   

@@ -6,9 +6,9 @@
             
             <div class="col-md-12 text-center col-sm-12 in">
               <div class="single_monail_apps_text">
-                <h4>¡Descarga nuestra App!</h4>
+                <h4>Download our App!</h4>
                 <h1>
-                  Mobile App <span>Disponible en la PlayStore</span>
+                  MOBILE APP <span>AVAILABLE ON THE PLAYSTORE</span>
                 </h1>
                 <img src="./assets/images/google.png" alt="" />
                 <img src="./assets/images/apps.png" alt="" />

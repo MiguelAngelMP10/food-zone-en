@@ -6,10 +6,10 @@
           <div class="col-8">
             <div class="row py-5">
               <h4 class="wow animated rubberBand text-center" id="">
-                Si tienes alguna duda escríbenos por correo
+                If you have any questions write us by mail
               </h4>
               <h3 class="wow animated rubberBand text-center py-3" id="">
-                FoodZone-Contáctanos
+                FoodZone-Contact us
               </h3>
 
               <form action="" autocomplete="off">
@@ -20,8 +20,8 @@
                   <input
                     type="text"
                     class="form-control"
-                    placeholder="Nombre"
-                    aria-label="Nombre"
+                    placeholder="Name"
+                    aria-label="Name"
                     aria-describedby="basic-addon1"
                   />
                 </div>
@@ -32,8 +32,8 @@
                   <input
                     type="text"
                     class="form-control"
-                    placeholder="Corrreo electrónico"
-                    aria-label="Corrreo electronico"
+                    placeholder="Mail"
+                    aria-label="Mail"
                     aria-describedby="basic-addon1"
                   />
                 </div>
@@ -43,13 +43,13 @@
                   >
                   <textarea
                     class="form-control"
-                    aria-label="Mensaje"
-                    placeholder="Mensaje"
+                    aria-label="Message"
+                    placeholder="Mesagge"
                   />
                 </div>
                 <div class="input-group mb-3">
                   <button type="button" class="btn btn-primary"
-                    ><i class="bi bi-envelope" /> Enviar</button
+                    ><i class="bi bi-envelope" /> Send</button
                   >
                 </div>
               </form>

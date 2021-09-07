@@ -7,7 +7,9 @@
               <div class="main_slider_content wow zoomIn" data-wow-duration="1s">
                 <h1 class="tituloSlider">FOOD ZONE</h1>
                 <p>
-                  FOOD ZONE, es un software con acceso vía Web, y APP’s de iOS y Android para facilitar la interacción entre usuarios y los establecimientos de la Industria de Alimentos y Bebidas, la Industria de la Hospitalidad, y la Industria del Entretenimiento. 
+                  
+FOOD ZONE is a software with web access, and APP 's iOS and Android to facilitate interaction between users and establishments Industry Food and Beverage Industry of Hospitality and Entertainment Industry.
+ 
                 </p>  
               </div>
             </div>
@@ -19,6 +21,7 @@
   <style>
     .tituloSlider{
       font-weight: 700;
+      color:rgb(244, 0, 0, 255);
     }
     .slider{
       margin-right: -13px;

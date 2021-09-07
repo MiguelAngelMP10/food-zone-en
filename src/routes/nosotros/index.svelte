@@ -21,9 +21,9 @@ onMount(() => {
         <div class="row justify-content-center">
           <div class="col-8">
             <div class="row py-5">
-              <h4 class=" wow animated rubberBand  text-center">FoodZone-Nosotros</h4>
+              <h4 class=" wow animated rubberBand  text-center">FoodZone-Us</h4>
               <h3 class=" wow animated rubberBand  text-center py-3">
-                ¿Quiénes somos y qué hacemos?
+                Who we are and what we do?
               </h3>
 
               <img
@@ -32,44 +32,32 @@ onMount(() => {
                 alt="..."
               />
               <p class=" wow rotateInDownRight animated" data-wow-offset="10">
-                FOOD ZONE, es un software con acceso vía Web, y APP’s de iOS y
-                Android para facilitar la interacción entre usuarios y los
-                establecimientos de la Industria de Alimentos y Bebidas, la
-                Industria de la Hospitalidad, y la Industria del
-                Entretenimiento.
+                FOOD ZONE is a software with web access, and APP 's iOS and Android to facilitate interaction between users and establishments Industry Food and Beverage Industry of Hospitality and Entertainment Industry.
               </p>
 
               <p class=" wow rotateInDownRight animated" data-wow-offset="10">
-                Permite al usuario tener una interacción cómoda, segura y
-                completa para su experiencia con restaurantes y lugares de
-                entretenimiento.
+                The app allows the user to have an interaction safe and complete for your experience with restaurants and entertainment venues. The platform allows payments to be made by credit or debit card, as well as by means of credit that can be paid in cash when acquiring electronic wallets at the different points of sale.
               </p>
               <p class=" wow rotateInDownRight animated" data-wow-offset="10">
-                La plataforma permite hacer pagos con tarjeta de crédito o
-                débito, así como por medio de crédito que se podrá abonar en
-                efectivo al adquirir monederos electrónicos en los distintos
-                puntos de venta.
+               
               </p>
             </div>
 
             <div class="row py-3">
               <div class="col-sm-12 col-md-6 wow rotateInDownRight animated" data-wow-offset="10">
-                <h4 class="py-5">Visión</h4>
+                <h4 class="py-5">Vision</h4>
                 <p class="">
-                  Posicionarnos como el software enfocado en Alimentos y Bebidas
-                  más utilizado en el mercado de México y Estados Unidos.
+                  To position ourselves as the most widely used software focused on Food and Beverages in the Mexican and United States markets.
                 </p>
               </div>
               <div class="col-sm-12 col-md-6 wow rotateInUpLeft animated " data-wow-offset="10">
-                <h4 class="py-5">Misión</h4>
+                <h4 class="py-5">Mission</h4>
                 <p class="">
-                  Brindar el mejor servicio a cada uno de nuestros clientes
-                  facilitándoles el proceso de compra en establecimientos del
-                  sector de Alimentos y Bebidas.
+                  Provide the best service to each of our clients by facilitating the purchasing process in establishments in the Food and Beverages sector.
                 </p>
               </div>
 
-              <h4 class="text-center py-3">Nuestros Valores</h4>
+              <h4 class="text-center py-3">Our values</h4>
               <div class="row">
                 <div class="col wow zoomInDown animated" data-wow-offset="10">
                   <div class="card h-100">
@@ -80,7 +68,7 @@ onMount(() => {
                       style="width: 100%;"
                     />
                     <div class="card-body">
-                      <h5 class="card-title">Servicio Personalizado</h5>
+                      <h5 class="card-title">Personalized service</h5>
                     </div>
                   </div>
                 </div>
@@ -92,7 +80,7 @@ onMount(() => {
                       alt="..."
                     />
                     <div class="card-body">
-                      <h5 class="card-title">Innovación</h5>
+                      <h5 class="card-title">Innovation</h5>
                     </div>
                   </div>
                 </div>
@@ -104,7 +92,7 @@ onMount(() => {
                       alt="..."
                     />
                     <div class="card-body">
-                      <h5 class="card-title">Calidad</h5>
+                      <h5 class="card-title">Quality</h5>
                     </div>
                   </div>
                 </div>
@@ -116,7 +104,7 @@ onMount(() => {
                       alt="..."
                     />
                     <div class="card-body">
-                      <h5 class="card-title">Honestidad</h5>
+                      <h5 class="card-title">Honesty</h5>
                     </div>
                   </div>
                 </div>
@@ -129,14 +117,14 @@ onMount(() => {
                       alt="..."
                     />
                     <div class="card-body">
-                      <h5 class="card-title">Responsabilidad</h5>
+                      <h5 class="card-title">Responsability </h5>
                     </div>
                   </div>
                 </div>
               </div>
 
               <h4 class="text-center py-5 wow rotateInUpLeft animated" data-wow-offset="10">
-                Historia de Food Zone
+                History of Food Zone
               </h4>
               <div class="row">
                 <div class="col-sm-12 col-md-4 wow rotateInUpLeft animated" data-wow-offset="10">
@@ -147,12 +135,7 @@ onMount(() => {
                 </div>
                 <div class="col-sm-12 col-md-8 wow rotateInUpLeft animated" data-wow-offset="10">
                   <p class=" py-5">
-                    Nuestra empresa surge en 2021 de la necesidad de facilitar y
-                    agilizar el servicio de alimentos y bebidas en foodcourts,
-                    restaurantes y otros establecimientos. Brindamos la opción
-                    de pagar con cualquier tarjeta y además, le damos a nuestros
-                    clientes un beneficio por cada compra realizada desde
-                    nuestra app.
+                    Our company arises in 2021 from the need to facilitate and expedite the service of food and beverages in food courts, restaurants and other establishments. We offer the option of paying with any card and also, we give our clients a benefit for each purchase made from our app.
                   </p>
                 </div>
               </div>

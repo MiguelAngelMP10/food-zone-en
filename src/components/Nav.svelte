@@ -48,30 +48,30 @@
         </li>
         <li class="nav-item" >
           <a href="{url}/colaboradores" class="nav-link active activo" on:click={collapseMenu}
-            >Colaboradores</a
+            >Collaborators </a
           >
         </li>
         <li class="nav-item">
-          <a href="{url}/nosotros" class="nav-link active activo" on:click={collapseMenu}>Nosotros</a>
+          <a href="{url}/nosotros" class="nav-link active activo" on:click={collapseMenu}>Us</a>
         </li>
         <li class="nav-item" >
-          <a href="{url}/pedir" class="nav-link active activo" on:click={collapseMenu}>Pedido</a>
+          <a href="{url}/pedir" class="nav-link active activo" on:click={collapseMenu}>Order</a>
         </li>
         <li class="nav-item" >
-          <a href="{url}/noticias" class="nav-link active activo" on:click={collapseMenu}>Noticias</a>
+          <a href="{url}/noticias" class="nav-link active activo" on:click={collapseMenu}>News</a>
         </li>
         <li class="nav-item" >
           <a href="{url}/preguntas-frecuentes" class="nav-link active activo" on:click={collapseMenu}
-            >Preguntas
+            >Questions
           </a>
         </li>
         <li class="nav-item" >
           <a href="{url}/terminos" class="nav-link active activo" on:click={collapseMenu}
-            >Términos</a
+            >Terms</a
           >
         </li>
         <li class="nav-item">
-          <a href="{url}/contacto" class="nav-link active activo" on:click={collapseMenu}>Contacto</a>
+          <a href="{url}/contacto" class="nav-link active activo" on:click={collapseMenu}>Contact</a>
         </li>
       </ul>
     </div>
@@ -89,7 +89,7 @@
    
   }
  .bg{
-  background-color: #e03c36;
+  background-color:rgb(244, 0, 0, 255);
   
  }
  .nav-link{

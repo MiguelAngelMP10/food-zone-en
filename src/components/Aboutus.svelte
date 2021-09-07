@@ -16,13 +16,12 @@
               class="single_abouts_text wow slideInRight"
                data-wow-offset="10" 
             >
-              <h4>Acerca de nosotros</h4>
-              <h3>¿Qué te ofrecemos?</h3>
+              <h4>About us</h4>
+              <h3>What do we offer? </h3>
               
   
               <p>
-                Permite al usuario tener una interacción cómoda, segura y completa para su experiencia con restaurantes y lugares de entretenimiento. 
-                La plataforma permite hacer pagos con tarjeta de crédito o débito, así como por medio de crédito que se podrá abonar en efectivo al adquirir monederos electrónicos en los distintos puntos de venta. 
+                The app allows the user to have an interaction safe and complete for your experience with restaurants and entertainment venues. The platform allows payments to be made by credit or debit card, as well as by means of credit that can be paid in cash when acquiring electronic wallets at the different points of sale. 
 
               </p>
   

@@ -5,10 +5,10 @@
         <div class="row justify-content-center">
           <div class="col-8 py-5">
             <h4 class="wow animated rubberBand text-center" id="">
-              ¿Necesitas ayuda?
+              Do you need help?
             </h4>
             <h3 class="wow animated rubberBand text-center py-3" id="">
-              Preguntas frecuentes
+              Frequent questions
             </h3>
 
             <div class="accordion pb-5" id="accordionPanelsStayOpenExample">
@@ -22,7 +22,7 @@
                     aria-expanded="false"
                     aria-controls="panelsStayOpen-collapseOne"
                   >
-                    1. ¿La app es compatible en Android?
+                  1. Is the app compatible on Android?
                   </button>
                 </h2>
                 <div
@@ -31,7 +31,7 @@
                   aria-labelledby="panelsStayOpen-headingOne"
                 >
                   <div class="accordion-body">
-                    Si, la app está disponible tanto en Android como en IOS.
+                    Yes, the app is available on both Android and IOS.
                   </div>
                 </div>
               </div>
@@ -46,7 +46,7 @@
                     aria-expanded="false"
                     aria-controls="pregunta-2-collapseThree"
                   >
-                    2. ¿Cómo puedo crear mi Monedero Electrónico?
+                  2. How can I create my Electronic Wallet?
                   </button>
                 </h2>
                 <div
@@ -55,8 +55,7 @@
                   aria-labelledby="pregunta-2"
                 >
                   <div class="accordion-body">
-                    El monedero electrónico se crea automáticamente al crear una
-                    cuenta.
+                    The e-wallet is created automatically when you create an account.
                   </div>
                 </div>
               </div>
@@ -71,7 +70,7 @@
                     aria-expanded="false"
                     aria-controls="pregunta-3-collapseThree"
                   >
-                    3. ¿En qué países está disponible FoodZone?
+                  3. In which countries is FoodZone available?
                   </button>
                 </h2>
                 <div
@@ -80,8 +79,7 @@
                   aria-labelledby="pregunta-3"
                 >
                   <div class="accordion-body">
-                    Por el momento está disponible en Estados Unidos y en
-                    México.
+                    At the moment it is available in the United States and Mexico.
                   </div>
                 </div>
               </div>
@@ -96,7 +94,7 @@
                     aria-expanded="false"
                     aria-controls="pregunta-4-collapseThree"
                   >
-                    4. ¿Cuánto cuesta descargar la app?
+                  4. How much does it cost to download the app?
                   </button>
                 </h2>
                 <div
@@ -105,7 +103,7 @@
                   aria-labelledby="pregunta-4"
                 >
                   <div class="accordion-body">
-                    La app es totalmente gratuita.
+                    The app is completely free.
                   </div>
                 </div>
               </div>
@@ -120,8 +118,7 @@
                     aria-expanded="false"
                     aria-controls="panelsStayOpen-collapseThree"
                   >
-                    5. ¿En dónde puedo utilizar mis puntos del monedero
-                    electrónico?
+                  5. Where can I use my e-wallet points?
                   </button>
                 </h2>
                 <div
@@ -130,8 +127,7 @@
                   aria-labelledby="panelsStayOpen-headingThree"
                 >
                   <div class="accordion-body">
-                    En cualquier establecimiento que esté dado de alta con
-                    FoodZone.
+                    In any establishment that is registered with FoodZone.
                   </div>
                 </div>
               </div>

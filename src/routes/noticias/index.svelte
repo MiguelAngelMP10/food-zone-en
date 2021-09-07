@@ -7,9 +7,9 @@
       <div class="col-md-12">
         <div class="row justify-content-center">
           <div class="col-8 py-5">
-            <h4 class="wow animated rubberBand text-center" id="">FoodZone-Noticias</h4>
+            <h4 class="wow animated rubberBand text-center" id="">FoodZone-News</h4>
             <h3 class="wow animated rubberBand text-center" id="">
-              Te mostramos la informacion mas actual
+              We show you the most current information
             </h3>
             <div
               class="row row-cols-1 row-cols-lg-3 align-items-stretch g-4 py-5"
@@ -28,7 +28,7 @@
                     <ul class="d-flex list-unstyled mt-auto">
                       <li class="me-auto">
                         <a href="." class="icon-link text-light">
-                          Ver noticia
+                          View news
                         </a>
                       </li>
                       <li class="d-flex align-items-center me-3">
@@ -56,7 +56,7 @@
                     <ul class="d-flex list-unstyled mt-auto">
                       <li class="me-auto">
                         <a href="." class="icon-link text-light">
-                          Ver noticia
+                          View news
                         </a>
                       </li>
                       <li class="d-flex align-items-center me-3">
@@ -82,7 +82,7 @@
                     <ul class="d-flex list-unstyled mt-auto">
                       <li class="me-auto">
                         <a href="." class="icon-link text-light">
-                          Ver noticia
+                          View news
                         </a>
                       </li>
                       <li class="d-flex align-items-center me-3">

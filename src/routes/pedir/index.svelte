@@ -10,7 +10,7 @@
 				<div class="row justify-content-center">
 					<div class="col-8 py-5">
 						<h4 class="text-center wow animated rubberBand " data-animation="flash">
-							FoodZone ¿Cómo realizar un pedido?
+							How to order?
 						</h4>
 
 						<div class="row row-cols-1 row-cols-md-3 g-4 justify-content-center">
@@ -18,7 +18,7 @@
 								<div class="card">
 									<img src="{url}/img/FZ2.png" class="mx-auto" alt="..." style="width: 40%;" />
 									<div class="card-body">
-										<h5 class="card-title text-center">Regístrate en Food Zone</h5>
+										<h5 class="card-title text-center">Sign up for Food Zone</h5>
 									</div>
 								</div>
 							</div>
@@ -27,7 +27,7 @@
 								<div class="card">
 									<img src="{url}/img/FZ4.png" class="card-img-top center-img" alt="..." />
 									<div class="card-body">
-										<h5 class="card-title text-center">Escaneé el código QR de tu mesa</h5>
+										<h5 class="card-title text-center">Scan your table's QR code</h5>
 									</div>
 								</div>
 							</div>
@@ -41,7 +41,7 @@
 										style="width: 40%;"
 									/>
 									<div class="card-body">
-										<h5 class="card-title text-center">Realiza tu pedido</h5>
+										<h5 class="card-title text-center">Place your order</h5>
 									</div>
 								</div>
 							</div>
@@ -55,7 +55,7 @@
 										style="width: 40%;"
 									/>
 									<div class="card-body text-center">
-										<h5 class="card-title text-center">Evalua servicio</h5>
+										<h5 class="card-title text-center">Evaluate the service</h5>
 									</div>
 								</div>
 							</div>
@@ -69,7 +69,7 @@
 										style="width: 40%;"
 									/>
 									<div class="card-body ">
-										<h5 class="card-title text-center">Recibe una recompensa</h5>
+										<h5 class="card-title text-center">Receive a reward</h5>
 									</div>
 								</div>
 							</div>
